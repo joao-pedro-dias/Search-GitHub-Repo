@@ -48,5 +48,7 @@ Eu como cliente gostaria de realizar a pesquisa de repositórios do GitHub.
 
 - O projeto deve ter somente uma tela e a pesquisa acontece após o "Enter". A cada 10 registros o sistema realiza a paginação.
 
+Partes do sistema:
+
 ![Screenshot_1](https://user-images.githubusercontent.com/41653026/191869583-49101bb1-0de3-49a9-ba2f-412355800369.png)
 ![image](https://user-images.githubusercontent.com/41653026/191869607-bea5facc-a30d-4cad-9a36-4979ada14162.png)
